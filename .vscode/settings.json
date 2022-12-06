@@ -1,0 +1,8 @@
+{
+    "go.toolsEnvVars": {
+        "GOOS": "linux",
+        "GOARCH": "arm",
+        "GOROOT": "C:\\Users\\wildgeek\\AppData\\Local\\tinygo\\goroot-8178843d66bde6e021542e038fa31f0a984930745b5757c0919736b035675bfe",
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,bluepill,stm32f103,stm32f1,stm32,tinygo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.uart"
+    }
+}
